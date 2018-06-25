@@ -5,4 +5,6 @@
  - 高亭 https://github.com/INotWant
  - 吴鹏里 https://github.com/wupenglii
 + Graduates 2017
+ - 刘宇宸 https://github.com/1YCxZ
+ - 霍保海 https://github.com/huobaohai
 + Graduates 2016
