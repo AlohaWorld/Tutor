@@ -1,4 +1,11 @@
 # Group members' website (on github)
+# Graduates 2019
+ + 丁凡彧 https://github.com/nuoyi-618
+ + 李莹   https://liyingathere
+ + 王想想 https://github.com/Laniakea998
+ + 张敬渲 https://github.com/lusterr
+ + 左璐璐 https://github.com/lulu-z
+ + 朱盼   https:/github.com/MsakuraM
 # Graduates 2018
  + 林华 https://github.com/MaouLim
  + 张浩天 https://github.com/zhang99969/DailyLearning
