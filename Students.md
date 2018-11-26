@@ -8,6 +8,7 @@
 # Graduates 2017
  + 刘宇宸 https://github.com/1YCxZ
  + 霍保海 https://github.com/huobaohai
+ + 朱燕宇 https://github.com/aiyiyayayaya
 # Graduates 2016
 # Graduates 2015
 # Graduates 2014
