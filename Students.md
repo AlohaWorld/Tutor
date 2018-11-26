@@ -14,6 +14,7 @@
  + 吴鹏里 https://github.com/wupenglii
  + 汤晔 https://github.com/bytangye   Project: https://github.com/XJohn1031/login-filter.git
  + 王萌 https://github.com/mengmengisacat
+ + 雷志成 https://github.com/withlzc
  
 # Graduates 2017
  + 刘宇宸 https://github.com/1YCxZ
