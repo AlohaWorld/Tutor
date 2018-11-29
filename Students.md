@@ -24,6 +24,7 @@
 # Graduates 2017
  + 刘宇宸 https://github.com/1YCxZ
  + 霍保海 https://github.com/huobaohai
+ + 吴征航 https://github.com/qwesdfok
  + 朱燕宇 https://github.com/aiyiyayayaya
  + 崇山 https://github.com/chongshan0
  + 黄佳卫 https://github.com/songisking
