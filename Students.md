@@ -18,7 +18,7 @@
 # Graduates 2017
  + 刘宇宸 https://github.com/1YCxZ
  + 霍保海 https://github.com/huobaohai
- 
+ + 黄佳卫 https://github.com/songisking
 # Graduates 2016
  + 张钰 https://github.com/roveryz
 # Graduates 2015
