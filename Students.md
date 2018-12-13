@@ -20,6 +20,7 @@
  + 刘英杰 https://github.com/xiaoliu007007
  + 雷志成 https://github.com/withlzc
  + 周竞帆 https://github.com/zhoujingfan
+ + 张和辉 https://github.com/HalfClock  https://gitlab.com/BTZs
  
 # Graduates 2017
  + 刘宇宸 https://github.com/1YCxZ
