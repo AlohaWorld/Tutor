@@ -1,8 +1,8 @@
-# Group members' website (on github)
+﻿# Group members' website (on github)
 # Graduates 2020
  + 乔露露
  + 梁旭阳
- + 朱岩
+ + 朱岩 https://github.com/Yan8150
  + 赵鋆
  + 陈哲
  + 孙昌勇
