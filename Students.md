@@ -1,7 +1,7 @@
 # Group members' website (on github)
 # Graduates 2020
  + 乔露露
- + 梁旭阳
+ + 梁旭阳 https://github.com/loveyurinakamura
  + 朱岩
  + 赵鋆
  + 陈哲
