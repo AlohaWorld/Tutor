@@ -5,7 +5,7 @@
  + 朱岩
  + 赵鋆
  + 陈哲
- + 孙昌勇
+ + 孙昌勇 https://github.com/SunChangyong
  + 倪晨煜
  + 潘浩宇
 # Graduates 2019
