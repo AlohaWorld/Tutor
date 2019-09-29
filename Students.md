@@ -1,4 +1,13 @@
 # Group members' website (on github)
+# Graduates 2020
+ + 乔露露
+ + 梁旭阳
+ + 朱岩
+ + 赵鋆
+ + 陈哲
+ + 孙昌勇
+ + 倪晨煜
+ + 潘浩宇
 # Graduates 2019
  + 丁凡彧 https://github.com/nuoyi-618
  + 李莹   https://github.com/liyingathere
