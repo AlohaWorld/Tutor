@@ -6,7 +6,7 @@
  + 赵鋆
  + 陈哲
  + 孙昌勇
- + 倪晨煜
+ + 倪晨煜 https://github.com/ncygit
  + 潘浩宇
 # Graduates 2019
  + 丁凡彧 https://github.com/nuoyi-618
