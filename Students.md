@@ -1,13 +1,14 @@
 # Group members' website (on github)
 # Graduates 2020
- + 乔露露
- + 梁旭阳
- + 朱岩
+ + 梁旭阳 https://github.com/loveyurinakamura
+ + 乔露露 https://github.com/qllfq
+ + 朱岩 https://github.com/Yan8150
  + 赵鋆
- + 陈哲
- + 孙昌勇
  + 倪晨煜 https://github.com/ncygit
- + 潘浩宇
+ + 孙昌勇 https://github.com/SunChangyong
+ + 陈哲 https://github.com/tellw
+ + 潘浩宇 https://panverson.github.io
+
 # Graduates 2019
  + 丁凡彧 https://github.com/nuoyi-618
  + 李莹   https://github.com/liyingathere
@@ -23,6 +24,7 @@
  + 吴鹏里 https://github.com/wupenglii
  + 汤晔 https://github.com/bytangye   Project: https://github.com/XJohn1031/login-filter.git
  + 王萌 https://github.com/mengmengisacat
+ + 张晓彤 https://github.com/Mariabro
  + 杨钰琳 https://github.com/yyllyy0813
  + 闫乃实 https://github.com/ns18631196360
  + 刘聪 https://github.com/Longlingfeng1 
