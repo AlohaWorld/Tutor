@@ -3,7 +3,9 @@ Things about the graduates
 
 # For all new graduates
 Please checkout [Graduate Githubs](Students.md) page.
+
 Add your github links.
+
 Submit a pull request.
 
 # Index
