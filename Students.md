@@ -7,7 +7,8 @@
  + 陈哲 https://github.com/tellw
  + 孙昌勇
  + 倪晨煜
- + 潘浩宇
+ + 潘浩宇 https://panverson.github.io
+
 
 # Graduates 2019
  + 丁凡彧 https://github.com/nuoyi-618
