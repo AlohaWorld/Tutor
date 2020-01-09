@@ -1,16 +1,13 @@
-﻿# Group members' website (on github)
+# Group members' website (on github)
 # Graduates 2020
- + 乔露露
  + 梁旭阳 https://github.com/loveyurinakamura
  + 乔露露 https://github.com/qllfq
  + 朱岩 https://github.com/Yan8150
  + 赵鋆
- + 陈哲
+ + 倪晨煜 https://github.com/ncygit
  + 孙昌勇 https://github.com/SunChangyong
  + 陈哲 https://github.com/tellw
- + 倪晨煜
  + 潘浩宇 https://panverson.github.io
-
 
 # Graduates 2019
  + 丁凡彧 https://github.com/nuoyi-618
