@@ -1,8 +1,8 @@
-# Group members' website (on github)
+﻿# Group members' website (on github)
 # Graduates 2020
  + 乔露露 https://github.com/qllfq
  + 梁旭阳
- + 朱岩
+ + 朱岩 https://github.com/Yan8150
  + 赵鋆
  + 陈哲 https://github.com/tellw
  + 孙昌勇
