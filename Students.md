@@ -13,6 +13,7 @@
  + 孙昌勇 https://github.com/SunChangyong
  + 陈哲 https://github.com/tellw
  + 潘浩宇 https://panverson.github.io
+ + 张俨 https://github.com/Squ-123
 
 # Graduates 2019
  + 丁凡彧 https://github.com/nuoyi-618
