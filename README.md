@@ -1,14 +1,12 @@
 # Tutor
-Things about the graduates
+Documents and articles in this repository are for graduates. 
 
-# For all new graduates
-Please checkout [Graduate Githubs](Students.md) page.
+# Graduates
++ [Graduate's Githubs](Students.md)
++ [For NEW guys](NewGuy.md)
 
-Add your github links.
-
-Submit a pull request.
 
 # Index
-+ [Graduate's Githubs](Students.md)
+
 + How to write an email
 + [软件工程方向硕士论文撰写指南](How2WriteThesis.md)
