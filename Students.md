@@ -1,9 +1,5 @@
 # Group members' website (on github)
 
-# Undergraduate 2016 (Guys working on graduate design projects)
-
-
-
 # Graduates 2020
  + 梁旭阳 https://github.com/loveyurinakamura
  + 乔露露 https://github.com/qllfq
